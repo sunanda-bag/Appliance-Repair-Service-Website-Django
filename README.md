@@ -1,1 +1,0 @@
-# Appliance-Repair-Service-Website-Django
